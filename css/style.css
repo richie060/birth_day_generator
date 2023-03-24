@@ -1,0 +1,65 @@
+body{
+  font-family: 'Lora';
+  color: black;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 36px;
+  padding-top: 20px;
+}
+
+.container{
+  width: 98%;
+  margin: auto;
+}
+
+#year-input{
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+}
+
+#month-input{
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+}
+
+#day-input{
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+}
+
+#get-name{
+  border-radius: 5px;
+  color: #ffff;
+  background-color: #000000;
+  text-align: center;
+  width: 108px;
+  height: 32px;
+  font-size: 13px;
+}
+#result{
+  text-align: center;
+}
+.content{
+  height: 600px;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10px;
+  margin-bottom: auto;
+  padding-bottom: 20px;
+  border-radius: 0.5%;
+}
+.clear{
+  border-radius: 5px;
+  color: #ffff;
+  background-color: #000000;
+  text-align: center;
+  width: 108px;
+  height: 32px;
+  font-size: 13px;
+}
+
